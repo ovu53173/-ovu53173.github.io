@@ -2,7 +2,7 @@
 <HTML>
 		<HEAD>
 		<META http-equiv="Content-Type" content="text/html;charset=ISO8859-1">
-		<BODY>
+		<body bgcolor="#E6E6FA">
 				<TITLE> My Favorite PLACE ON EARTH</TITLE>
 				<STYLE type= "text/css">
 </STYLE> 
