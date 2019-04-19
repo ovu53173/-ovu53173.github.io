@@ -1,15 +1,77 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-		<HEAD>
-		<META http-equiv="Content-Type" content="text/html;charset=ISO8859-1">
-		<body bgcolor="#E6E6FA">
-				<TITLE> My Favorite PLACE ON EARTH</TITLE>
-				<STYLE type= "text/css">
-</STYLE> 
-				</HEAD>
-				</BODY>
-				My name is Venelsa Uboh.
-				</HTML>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"  "http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+	<META http-equiv="Content-Type" content="text/html;charset=ISO8859-1"> 
+
+ 					<h1>How Cooking Ties Cultures Together</h1>
+<Style type= "text/css">
+	p { color:green }
+	H1 {color:green }
+body {
+  background-color: lightblue;
+}
+</style>
+
+<img src= "food-culture-1.jpg">
+<cite "Photo: Resturant Oliver" <cite/>
+<P> </P>
+Cooking as a family or with friends and loved ones brings us together because we are able
+to share our culture and heritage through food and give each other nourishment. Coming together
+and sharing a meal is the most commual and binding thins in almost every part of the world.
+Being able to make a dish and share that with people you love is one of the most uniserval concepts
+because it is the root of our survival. Recipes are passed on from generation to generation and 
+this makes food a very special thing. Some of my very first memeories are in the kitchen with
+my mom. 
+
+<P> <P/>
+
+Moving from one country to another, I now realize how special those memories are and how imporatant
+food is for togetherness and culture. Food is a great vechicle for sharing culture with people
+from different backgrounds. I was born and rasied in Nigeria and I remember how hard it was 
+for me to ingerate into the "American Culture". Through food I was able to communicate with 
+my new friends. They informed me of thier favorite fast food resturants and I showed them
+my favorite Nigerian dishes and this created some lifelong friendships. 
+
+<p> </P>
+
+Overall, sharing food with others brings a wealth of benefits. These moments help us make 
+friends, find love and end hostitity. Breaking bread together is a way to remove barriers and
+helps us explore new culture and bulid stronger relationships when we socialise. Food helps 
+us stay connected. For example talking about the day is perfect way to stay connected with
+members of your family. 
+<sub> <sub/>
+<h2> Some of my Favorite American and Nigerian Dishes </h2>
+
+<Table border="3">
+	<tr> 
+		<td> American </td>
+		<td> Nigerian </td>
+ </TR>
+
+<tr>
+		<td> Cheese Hamburger</td>	
+		<td> Jellof rice</td>
+		<tr/>
+<tr>
+		<td> Mac and Cheese</td>		
+		<td> Pepper Soup</td>
+		<tr/>
+<tr> 
+		<td> Crispy Chicken Sandwich</td>
+		<td> Banga Soup<td/>
+		<tr/>
+<tr>
+		<td> Grilled Cheese</td>
+		<td> Puff Puff</td>
+		<tr/>
+</table>
+
+<p> Here's a link to find some Nigerian Food recipes! <p/> <img src= "Nigeria_120-animated-flag-gifs.gif">
+
+<a href= "https://allnigerianfoods.com/nigerian-dishes"> Link to page </a>
+
+</body>
+</html>
 				
 				
 				
